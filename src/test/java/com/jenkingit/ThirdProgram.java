@@ -6,6 +6,5 @@ public class ThirdProgram {
 		for (String x : s) {
 			System.out.println(x.replaceAll("\\s+", " "));
 		}
-		System.out.println("All the best britto");
 	}
 }
